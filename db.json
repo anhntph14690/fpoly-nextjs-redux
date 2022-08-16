@@ -1,4 +1,70 @@
 {
-    "products": [],
-    "users": []
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "10000",
+      "img": "ndjnsjcdjs",
+      "desc": "cdcdcc",
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "price": "10000",
+      "img": "ndjnsjcdjs",
+      "desc": "cdcdcc",
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "price": "10000",
+      "img": "ndjnsjcdjs",
+      "desc": "cdcdcc",
+      "id": 3
+    },
+    {
+      "name": "Product 4",
+      "price": "10000",
+      "img": "ndjnsjcdjs",
+      "desc": "cdcdcc",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "nguyentheanh14072002@gmail.com",
+      "pass": "12312313",
+      "id": 1
+    },
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "nguyentheanh14072002@gmail.com",
+      "pass": "13213123",
+      "id": 2
+    },
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "anhntph14690@fpt.edu.vn",
+      "pass": "322321313",
+      "id": 3
+    },
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "nguyentheanh14072002@gmail.com",
+      "pass": "342434",
+      "id": 4
+    },
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "nguyentheanh14072002@gmail.com",
+      "pass": "e234434",
+      "id": 5
+    },
+    {
+      "name": "nguyentheanh14072002@gmail.com",
+      "email": "nguyentheanh14072002@gmail.com",
+      "pass": "23123123",
+      "id": 6
+    }
+  ]
 }

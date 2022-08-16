@@ -24,3 +24,44 @@ a {
     background: black;
   }
 }
+
+.bg{
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+#add{
+  background: rgb(76, 0, 255);
+  color: rgb(255, 255, 255);
+  width: 60px;
+  height: 35px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+#signup{
+  background: rgb(255, 157, 0);
+  color: rgb(255, 255, 255);
+  width: 90px;
+  height: 35px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+#edit{
+  background: rgb(0, 162, 30);
+  color: rgb(255, 255, 255);
+  width: 60px;
+  height: 35px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+#remove{
+  background: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  width: 90px;
+  height: 35px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+span{
+  color: rgb(255, 0, 0);
+}

@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import { Provider } from 'react-redux'
 import { store } from '../app/store'
-
+import 'bootstrap/dist/css/bootstrap.css'
 import { SWRConfig } from "swr";
 import instance from "@/api/instance";
 import Layout from "@/components/Layouts";
